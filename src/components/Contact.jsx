@@ -139,7 +139,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <span className="text-[10px] text-slate-400 font-bold uppercase tracking-wider block">Send Email</span>
-                    <span className="text-xs sm:text-sm font-semibold text-slate-700 dark:text-slate-200">randhirpratapsingh3899@gmail.com</span>
+                    <span className="text-xs sm:text-sm font-semibold text-slate-700 dark:text-slate-200">rps85071@gmail.com</span>
                   </div>
                 </div>
                 <button
